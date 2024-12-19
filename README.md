@@ -3,6 +3,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=BC0556&background=000C3B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I'm+a+frontend+developer+with+a+passion+for+building+;fun+and+interactive+web+application+with+strong+focus;+on+UX%2FUI+design." alt="Typing SVG" /></a>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" alt="Naruto Coding" width="400"/>
+</p>
+
 <h2><i>A wise man accepts his pain, endures it but never adds to it - </i> M.A</h2>
 
 

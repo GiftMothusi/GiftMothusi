@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thato-gabanakgosi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-BC0556?style=for-the-badge&logo=About.me&logoColor=white)](https://thatomothusithewebdeveloper.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giftgabanakgosi@gmail.com)
 

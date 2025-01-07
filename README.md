@@ -22,9 +22,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giftmothusi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="giftmothusi" /></a> </p>
 
-- 🔭 I'm currently working on learning PHP and getting my Microsoft certifications
-- 🌱 I'm currently learning Laravel and brushing up on my React/Nextjs foundations
-- 🤝 I'm looking for help with PHP
+- 🔭 I'm currently working on React Native and building wordpress plugins for hobby purposes
+- 🌱 I'm currently working on Laravel and NextJs system that modular based with multi-tenancy, currently overseeing the implementation of the assets-management module/system
 - 👨‍💻 All of my projects are available at [https://thatomothusithewebdeveloper.netlify.app/](https://thatomothusithewebdeveloper.netlify.app/)
 - 💬 Ask me about React, CSS, GSAP
 - 📫 How to reach me giftgabanakgosi@gmail.com
@@ -33,6 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>

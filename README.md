@@ -23,8 +23,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giftmothusi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="giftmothusi" /></a> </p>
 
 - 🔭 I'm currently working on React Native and building wordpress plugins for hobby purposes
-- 🌱 I'm currently working on Laravel and NextJs system that modular based with multi-tenancy, currently overseeing the implementation of the assets-management module/system
-- 👨‍💻 All of my projects are available at [https://thatomothusithewebdeveloper.netlify.app/](https://thatomothusithewebdeveloper.netlify.app/)
+- 🌱 I'm currently working on Laravel and NextJs system that is modular based with multi-tenancy, currently overseeing the implementation of the assets-management module/system
+- 👨‍💻 All of my projects are available at [https://thatomothusithewebdeveloper.netlify.app/](https://thatomothusithewebdeveloper.netlify.app/) and [https://unclegroovey.netlify.app/](https://unclegroovey.netlify.app/)
 - 💬 Ask me about React, CSS, GSAP
 - 📫 How to reach me giftgabanakgosi@gmail.com
 - ⚡ Fun fact I practice MMA - ask me about my favorite techniques!

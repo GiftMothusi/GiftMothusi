@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" alt="Naruto Coding" width="400"/>
 </p>
 
-<h2><i>"A wise man accepts his pain, endures it but never adds to it"</i> - M.A</h2>
+<h2 align="center"><i>"A wise man accepts his pain, endures it but never adds to it"</i> - M.A</h2>
 
 <div align="center">
   
@@ -18,59 +18,149 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giftmothusi&label=Profile%20views&color=BC0556&style=flat" alt="giftmothusi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giftmothusi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="giftmothusi" /></a> </p>
-
-- 🔭 I'm currently working on React Native and building wordpress plugins for hobby purposes
-- 🌱 I'm currently working on Laravel and NextJs system that is modular based with multi-tenancy, currently overseeing the implementation of the assets-management module/system
-- 👨‍💻 All of my projects are available at [https://thatomothusithewebdeveloper.netlify.app/](https://thatomothusithewebdeveloper.netlify.app/) and [https://unclegroovey.netlify.app/](https://unclegroovey.netlify.app/)
-- 💬 Ask me about React, CSS, GSAP
-- 📫 How to reach me giftgabanakgosi@gmail.com
-- ⚡ Fun fact I practice MMA - ask me about my favorite techniques!
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
-<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" alt="sanity" width="40" height="40"/> </a>
-<a href="https://appwrite.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-</p>
+<br>
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=giftmothusi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Gift's GitHub Stats" height="190px" />
   
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giftmothusi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Gift's Most Used Languages" height="190px" />
+![Profile Views](https://komarev.com/ghpvc/?username=giftmothusi&label=Profile%20views&color=BC0556&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/giftmothusi?label=Followers&style=for-the-badge&color=BC0556)
+![GitHub User's stars](https://img.shields.io/github/stars/giftmothusi?label=Stars&style=for-the-badge&color=BC0556)
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giftmothusi&theme=radical&hide_border=true&background=0D1117" alt="Gift's GitHub Streak" height="190px" />
+</div>
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giftmothusi&bg_color=0D1117&color=BC0556&line=BC0556&point=FFFFFF&area=true&hide_border=true" alt="Gift's GitHub Activity Graph" />
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=giftmothusi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="giftmothusi" />
+</div>
+
+## 🚀 Current Focus & Projects
+
+<div align="left">
+
+- 🔭 **Currently Working On:** React Native development and building WordPress plugins for hobby purposes
+- 🌱 **Learning & Building:** Laravel and Next.js modular system with multi-tenancy, currently overseeing the implementation of the **assets-management module/system**
+- 👨‍💻 **Portfolio Showcase:** [Main Portfolio](https://thatomothusithewebdeveloper.netlify.app/) | [Creative Projects](https://unclegroovey.netlify.app/)
+- 💬 **Ask Me About:** React, CSS, GSAP, TypeScript, Next.js, and Laravel modular architecture
+- 📫 **Reach Me:** giftgabanakgosi@gmail.com
+- ⚡ **Fun Fact:** I practice MMA - ask me about my favorite techniques! 🥊
+
+</div>
+
+## 💻 Technical Skills & Expertise
+
+<div align="center">
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Styling & Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=giftmothusi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=giftmothusi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=giftmothusi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Gift's GitHub Stats" height="190px" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=giftmothusi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=giftmothusi&layout=compact&theme=default&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giftmothusi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Gift's Most Used Languages" height="190px" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=giftmothusi&theme=radical&hide_border=true&background=0D1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=giftmothusi&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=giftmothusi&theme=radical&hide_border=true&background=0D1117" alt="Gift's GitHub Streak" />
+  </picture>
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=giftmothusi&bg_color=0D1117&color=BC0556&line=BC0556&point=FFFFFF&area=true&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=giftmothusi&bg_color=FFFFFF&color=BC0556&line=BC0556&point=000000&area=true&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=giftmothusi&bg_color=0D1117&color=BC0556&line=BC0556&point=FFFFFF&area=true&hide_border=true" alt="Gift's GitHub Activity Graph" />
+  </picture>
 </div>
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GiftMothusi/GiftMothusi/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiftMothusi/GiftMothusi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiftMothusi/GiftMothusi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiftMothusi/GiftMothusi/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+## 🎯 Fun Interactive Section
+
+<div align="center">
+
+### 🎮 Quick Facts About Me
+```typescript
+const Gift = {
+  currentRole: "Frontend Developer",
+  currentlyLearning: ["Laravel Modules", "Multi-tenancy", "Asset Management"],
+  hobbies: ["MMA", "Coding", "UI/UX Design", "WordPress Development"],
+  favoriteQuote: "A wise man accepts his pain, endures it but never adds to it",
+  askMeAbout: ["React", "CSS", "GSAP", "TypeScript", "Next.js"],
+  funFact: "I can code and throw a perfect jab! 🥊"
+};

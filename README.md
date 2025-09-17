@@ -13,6 +13,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thato-gabanakgosi-6581b6271/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27663286037)
 [![Portfolio](https://img.shields.io/badge/Portfolio-BC0556?style=for-the-badge&logo=About.me&logoColor=white)](https://thatomothusithewebdeveloper.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giftgabanakgosi@gmail.com)
 
@@ -38,10 +39,12 @@
 
 <div align="left">
 
-- 🔭 **Currently Working On:** React Native development and building WordPress plugins for hobby purposes
-- 🌱 **Learning & Building:** Laravel and Next.js modular system with multi-tenancy, currently overseeing the implementation of the **assets-management module/system**
-- 👨‍💻 **Portfolio Showcase:** [Main Portfolio](https://thatomothusithewebdeveloper.netlify.app/) | [Creative Projects](https://unclegroovey.netlify.app/)
-- 💬 **Ask Me About:** React, CSS, GSAP, TypeScript, Next.js, and Laravel modular architecture
+- 🔭 **Currently Working On:** Multi-tenancy GRC (Governance, Risk & Compliance) system using Laravel 12 and Next.js 15 with modular architecture
+- 🏗️ **System Modules:** Assets Management ✅, Risk Management ✅, Incident Management 🚧 (Currently in development)
+- 🛠️ **Tech Stack: Laravel modular system with Nwidart package, role-based permissions, and dynamic reporting systems
+- 🎯 **Current Focus: Implementing the Incident Management module with comprehensive reporting capabilities
+- 👨‍💻 **Portfolio Showcase:** [Main Portfolio](https://thatomothusithewebdeveloper.netlify.app/) 
+- 💬 **Ask Me About:** React, CSS, GSAP, TypeScript, Next.js,Shadcn, Figma and Laravel modular architecture
 - 📫 **Reach Me:** giftgabanakgosi@gmail.com
 - ⚡ **Fun Fact:** I practice MMA - ask me about my favorite techniques! 🥊
 

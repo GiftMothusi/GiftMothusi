@@ -41,8 +41,8 @@
 
 - 🔭 **Currently Working On:** Multi-tenancy GRC (Governance, Risk & Compliance) system using Laravel 12 and Next.js 15 with modular architecture
 - 🏗️ **System Modules:** Assets Management ✅, Risk Management ✅, Incident Management 🚧 (Currently in development)
-- 🛠️ **Tech Stack: Laravel modular system with Nwidart package, role-based permissions, and dynamic reporting systems
-- 🎯 **Current Focus: Implementing the Incident Management module with comprehensive reporting capabilities
+- 🛠️ **Tech Stack:** Laravel modular system with Nwidart package, role-based permissions, and dynamic reporting systems
+- 🎯 **Current Focus:** Implementing the Incident Management module with comprehensive reporting capabilities
 - 👨‍💻 **Portfolio Showcase:** [Main Portfolio](https://thatomothusithewebdeveloper.netlify.app/) 
 - 💬 **Ask Me About:** React, CSS, GSAP, TypeScript, Next.js,Shadcn, Figma and Laravel modular architecture
 - 📫 **Reach Me:** giftgabanakgosi@gmail.com

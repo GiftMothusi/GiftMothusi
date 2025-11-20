@@ -40,7 +40,7 @@
 <div align="left">
 
 - 🔭 **Currently Working On:** HandyHive, an E-market Platform catered for the informal jobs (Domestic Workers, Plumbers, Electricians, Carpenters, Garderners etc.) space in south africa, with a flexible payment transaction for services provided, payment functionality has an escrow payment logic with money released once serviced are rendered.The System will have a smart verification flow for service providers background checks to ensure safety between service provider and clients"
-- 🐝 Link to the HandyHive Landing page: <link href="https://main.d25zykp9ytlaor.amplifyapp.com/" target="_blank"> HandyHive 🐝 </link>
+- 🐝 Link to the HandyHive Landing page: <a href="https://main.d25zykp9ytlaor.amplifyapp.com/" target="_blank"> HandyHive 🐝 </a> , its still under development, I know it looks cool but do not steal my work and not give credit, its not cool at all. 
 - 🏗️ **System Modules:** Assets Management ✅, Risk Management ✅, Incident Management 🚧 (Currently in development)
 - 🛠️ **Tech Stack:** Laravel modular system with Nwidart package, role-based permissions, and dynamic reporting systems
 - 🎯 **Current Focus:** Implementing the Incident Management module with comprehensive reporting capabilities

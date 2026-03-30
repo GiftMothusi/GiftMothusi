@@ -161,10 +161,10 @@
 ### 🎮 Quick Facts About Me
 ```typescript
 const Gift = {
-  currentRole: "Frontend Developer",
-  currentlyLearning: ["Laravel Modules", "Multi-tenancy", "Asset Management"],
+  currentRole: "PHP Team Lead",
+  systemsWorkedOn: ["ProSuite", "iClaims", "Navigate"],
   hobbies: ["MMA", "Coding", "UI/UX Design", "WordPress Development"],
   favoriteQuote: "A wise man accepts his pain, endures it but never adds to it",
-  askMeAbout: ["React", "CSS", "GSAP", "TypeScript", "Next.js"],
+  askMeAbout: ["React", "Laravel, "CSS", "GSAP", "TypeScript", "Next.js"],
   funFact: "I can code and throw a perfect jab! 🥊"
 };

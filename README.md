@@ -46,7 +46,7 @@
 -## 💼 Professional Experience
 
 ### 🏢 ProSuite — Multi-Tenancy B2B GRC Platform
-**Role:** Software Developer → PHP Team Lead &nbsp;·&nbsp; 🔗 [app.prosuite.co.za](https://www.app.prosuite.co.za/)
+**Role:** Software Developer &nbsp;·&nbsp; 🔗 [app.prosuite.co.za](https://www.app.prosuite.co.za/)
 
 A multi-tenant B2B governance, risk & compliance platform built on a **Laravel modular architecture** (Nwidart), with role-based permissions and dynamic reporting. Delivered four core modules end-to-end:
 
@@ -65,7 +65,7 @@ Insurtech claims management system serving the **United Kingdom** insurance mark
 **Tech:** PHP · Laravel · PostgreSQL · Livewire 
 
 ### 🧭 Navigate — Insurance Quote Management System (AutoProtect)
-**Role:** Team Lead
+**Role:** PHP Team Lead
 
 Led development of **Navigate**, a quote management system for insurance client **AutoProtect** — owning delivery, technical direction and code quality for the team.
 

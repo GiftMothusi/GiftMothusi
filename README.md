@@ -46,7 +46,7 @@
 ## 💼 Professional Experience
 
 ### 🏢 ProSuite — Multi-Tenancy B2B GRC Platform
-**Role:** Software Developer &nbsp;·&nbsp; 🔗 [app.prosuite.co.za](https://www.app.prosuite.co.za/)
+**Role:** FullStack Developer &nbsp;·&nbsp; 🔗 [app.prosuite.co.za](https://www.app.prosuite.co.za/)
 
 A multi-tenant B2B governance, risk & compliance platform built on a **Laravel modular architecture** (Nwidart), with role-based permissions and dynamic reporting. Delivered four core modules end-to-end:
 
@@ -58,7 +58,7 @@ A multi-tenant B2B governance, risk & compliance platform built on a **Laravel m
 **Tech:** PHP · Laravel (modular) · MySQL · role-based access control · Nextjs · Typescript
 
 ### 🇬🇧 iProcess — Claims Management System (AutoProtect, UK)
-**Role:** Software Developer &nbsp;·&nbsp; 🔗 [iprocess.uk](https://iprocess.uk/login)
+**Role:** FullStack Developer &nbsp;·&nbsp; 🔗 [iprocess.uk](https://iprocess.uk/login)
 
 Insurtech claims management system serving the **United Kingdom** insurance market, built for client **AutoProtect**. Worked across the claims lifecycle — intake, processing and case handling.
 

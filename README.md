@@ -64,7 +64,7 @@ Insurtech claims management system serving the **United Kingdom** insurance mark
 
 **Tech:** PHP · Laravel · PostgreSQL · Livewire 
 
-### 🧭 Navigate — Insurance Quote Management System (AutoProtect)
+### 🧭 Navigate — Insurance Quote Management System (AutoProtect, UK)
 **Role:** PHP Team Lead
 
 Led development of **Navigate**, a quote management system for insurance client **AutoProtect** — owning delivery, technical direction and code quality for the team.

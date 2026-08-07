@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gift</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=BC0556&background=000C3B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I'm+a+frontend+developer+with+a+passion+for+building+;fun+and+interactive+web+application+with+strong+focus;+on+UX%2FUI+design." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=BC0556&background=000C3B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I'm+a+fullstack+developer+with+a+passion+for+building+;fun+and+interactive+web+application+with+strong+focus;+on+UX%2FUI+design as well as System Performance." alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" alt="Naruto Coding" width="400"/>
@@ -41,7 +41,7 @@
 
 - 🔭 **Currently Working On:** HandyHive, an E-market Platform catered for the informal jobs (Domestic Workers, Plumbers, Electricians, Carpenters, Garderners etc.) space in <b>South Africa</b>, with a flexible payment transaction for services provided, payment functionality has an escrow payment logic with money released once serviced are rendered.The System will have a smart verification flow for service providers background checks to ensure safety between service providers and clients"
 - 🐝 Link to the HandyHive Landing page: <a href="https://main.d25zykp9ytlaor.amplifyapp.com/" target="_blank"> HandyHive 🐝 </a> , its still under development. I know it looks cool but do not steal my work and not give credit, its not cool at all. 
-- 🏗️ **System Modules:** Assets Management ✅, Risk Management ✅, Incident Management 🚧 (Currently in development)
+- 🏗️ **System Modules:** Assets Management ✅, Risk Management ✅
 - 🛠️ **Tech Stack:** Laravel modular system with Nwidart package, role-based permissions, and dynamic reporting systems
 - 🎯 **Current Focus:** Implementing the Incident Management module with comprehensive reporting capabilities
 - 👨‍💻 **Portfolio Showcase:** [Main Portfolio](https://thatomothusithewebdeveloper.netlify.app/) 

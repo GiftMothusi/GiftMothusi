@@ -40,14 +40,36 @@
 <div align="left">
 
 - 🔭 **Currently Working On:** HandyHive, an E-market Platform catered for the informal jobs (Domestic Workers, Plumbers, Electricians, Carpenters, Garderners etc.) space in <b>South Africa</b>, with a flexible payment transaction for services provided, payment functionality has an escrow payment logic with money released once serviced are rendered.The System will have a smart verification flow for service providers background checks to ensure safety between service providers and clients"
-- 🐝 Link to the HandyHive Landing page: <a href="https://main.d25zykp9ytlaor.amplifyapp.com/" target="_blank"> HandyHive 🐝 </a> , its still under development. I know it looks cool but do not steal my work and not give credit, its not cool at all. 
-- 🏗️ **System Modules:** Assets Management ✅, Risk Management ✅
-- 🛠️ **Tech Stack:** Laravel modular system with Nwidart package, role-based permissions, and dynamic reporting systems
-- 🎯 **Current Focus:** Implementing the Incident Management module with comprehensive reporting capabilities
-- 👨‍💻 **Portfolio Showcase:** [Main Portfolio](https://thatomothusithewebdeveloper.netlify.app/) 
-- 💬 **Ask Me About:** React, CSS, GSAP, TypeScript, Next.js,Shadcn, Figma and Laravel modular architecture
-- 📫 **Reach Me:** giftgabanakgosi@gmail.com
-- ⚡ **Fun Fact:** I practice MMA - ask me about my favorite techniques! 🥊
+- 🐝 Link to the HandyHive Landing page: <a href="https://main.d25zykp9ytlaor.amplifyapp.com/" target="_blank"> HandyHive 🐝 </a> , its still under development. I know it looks cool but do not steal my work and not give credit, its not cool at all.
+
+
+-## 💼 Professional Experience
+
+### 🏢 ProSuite — Multi-Tenancy B2B GRC Platform
+**Role:** Software Developer → PHP Team Lead &nbsp;·&nbsp; 🔗 [app.prosuite.co.za](https://www.app.prosuite.co.za/)
+
+A multi-tenant B2B governance, risk & compliance platform built on a **Laravel modular architecture** (Nwidart), with role-based permissions and dynamic reporting. Delivered four core modules end-to-end:
+
+- **Asset Management** — asset registers, lifecycle tracking and reporting
+- **Risk Management** — risk registers, assessments and mitigation workflows
+- **Incident Management** — incident logging, workflows and comprehensive reporting
+- **Compliance Management** — compliance tracking and audit-ready reporting
+
+**Tech:** PHP · Laravel (modular) · MySQL · role-based access control · Nextjs · Typescript
+
+### 🇬🇧 iProcess — Claims Management System (AutoProtect, UK)
+**Role:** Software Developer &nbsp;·&nbsp; 🔗 [iprocess.uk](https://iprocess.uk/login)
+
+Insurtech claims management system serving the **United Kingdom** insurance market, built for client **AutoProtect**. Worked across the claims lifecycle — intake, processing and case handling.
+
+**Tech:** PHP · Laravel · PostgreSQL · Livewire 
+
+### 🧭 Navigate — Insurance Quote Management System (AutoProtect)
+**Role:** Team Lead
+
+Led development of **Navigate**, a quote management system for insurance client **AutoProtect** — owning delivery, technical direction and code quality for the team.
+
+**Tech:** PHP · Laravel · PosgreSQL · React · inertiaJS
 
 </div>
 

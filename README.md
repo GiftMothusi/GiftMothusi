@@ -43,7 +43,7 @@
 - 🐝 Link to the HandyHive Landing page: <a href="https://main.d25zykp9ytlaor.amplifyapp.com/" target="_blank"> HandyHive 🐝 </a> , its still under development. I know it looks cool but do not steal my work and not give credit, its not cool at all.
 
 
--## 💼 Professional Experience
+## 💼 Professional Experience
 
 ### 🏢 ProSuite — Multi-Tenancy B2B GRC Platform
 **Role:** Software Developer &nbsp;·&nbsp; 🔗 [app.prosuite.co.za](https://www.app.prosuite.co.za/)

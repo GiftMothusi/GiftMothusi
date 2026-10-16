@@ -39,7 +39,7 @@
 
 <div align="left">
 
-🐝<a href="www.handyhive.co.za"> HandyHive</a> is live. It’s a marketplace built for South Africa’s informal services sector, connecting clients with domestic workers, plumbers, electricians, carpenters, gardeners and more. Payments are protected by an escrow system that releases funds only once the work is done, and a verification flow with background checks keeps both clients and providers safe. Phase 1 is onboarding service providers: we’re bringing vetted professionals on first so the platform launches with trust built in. Providers can sign up now at <a href="www.handyhive.co.za">www.handyhive.co.za</a>.
+🐝<a href="https://handyhive.co.za"> HandyHive</a> is live. It’s a marketplace built for South Africa’s informal services sector, connecting clients with domestic workers, plumbers, electricians, carpenters, gardeners and more. Payments are protected by an escrow system that releases funds only once the work is done, and a verification flow with background checks keeps both clients and providers safe. Phase 1 is onboarding service providers: we’re bringing vetted professionals on first so the platform launches with trust built in. Providers can sign up now at <a href="https://handyhive.co.za">www.handyhive.co.za</a>.
 
 
 ## 💼 Professional Experience
